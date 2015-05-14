@@ -1,5 +1,5 @@
 # S4-carrier-branding
-Need help creating branding for a stock rom.
+Need help creating branding for a stock rom. The code below changes the Chameleon.xml file in the carrier partition.
 
 
 .class public Lcom/samsung/sprint/chameleon/ChameleonHelper;
